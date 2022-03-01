@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Java-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 <img
-  src="https://img.shields.io/badge/HTML5-E34F26?style=flat-Java&logo=HTML5&logoColor=white"
+  src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Java&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Python&logoColor=white"
 />
 
 ## Backjoon Algorithm 
