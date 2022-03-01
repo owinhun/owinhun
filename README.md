@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ## stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=radical)
 
-## Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun)](https://github.com/owinhun/github-readme-stats)
+## Card
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=owinhun&repo=github-readme-stats)](https://github.com/owinhun/github-readme-stats)
