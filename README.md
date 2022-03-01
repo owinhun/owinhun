@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ## Platforms & Languages
 <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=white"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owinhun)](https://github.com/owinhun/github-readme-stats)
 
 ## Backjoon Algorithm 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owinhun)](https://solved.ac/owinhun/)
@@ -28,3 +27,6 @@ Here are some ideas to get you started:
 
 ## stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=radical)
+
+## Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun)](https://github.com/owinhun/github-readme-stats)
