@@ -28,5 +28,8 @@ Here are some ideas to get you started:
 ## stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=radical)
 
-## Card
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=owinhun&repo=github-readme-stats)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owinhun&layout=compact)](https://github.com/owinhun/github-readme-stats)
+
+## Wake Time
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=owinhun)](https://github.com/owinhun/github-readme-stats)
