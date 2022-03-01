@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=white"/>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Java-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<img
+  src="https://img.shields.io/badge/HTML5-E34F26?style=flat-Java&logo=HTML5&logoColor=white"
+/>
 
 ## Backjoon Algorithm 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owinhun)](https://solved.ac/owinhun/)
