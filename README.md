@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=radical)
 
 ## Card
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=owinhun&repo=github-readme-stats)](https://github.com/owinhun/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=owinhun&repo=github-readme-stats)]
