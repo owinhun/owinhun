@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ## Backjoon Algorithm 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owinhun)](https://solved.ac/owinhun/)
 
-<a href="https://github.com/owinhun"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
