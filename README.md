@@ -31,6 +31,43 @@
 ## Visitors
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fowinhun&count_bg=%232A2A35&title_bg=%237D7D7D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+---
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center"> Most used Language</p>
+
+<div align="center" style="text-align:center">
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)</a>&nbsp;
+  ![Java](https://img.shields.io/badge/Java-276DC3?style=for-the-badge&logo=Java&logoColor=white)</a>&nbsp;
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)</a>&nbsp;
+ <br>
+  
+</div>
+
+<h4 align="center"> ◈Interest◈</h4>
+
+<div align="center" style="text-align:center">
+  
+ ![Bitcoin](https://img.shields.io/badge/Bitcoin-00979D?style=for-the-badge&logo=Bitcoin&logoColor=white)</a>&nbsp;
+ ![CashsApp](https://img.shields.io/badge/Fiance-00C244?style=for-the-badge&logo=CashApp&logoColor=white)</a>&nbsp;
+ <br>
+ 
+</div>
+
+<h4 align="center">📝I've used at least once📝</h4>
+
+<div align="center" style="text-align:center">
+  
+ ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+ ![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+ ![Jupyter NoteBook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+ <br>
+  
+</div>
+---
+
 ## stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=radical)
 
