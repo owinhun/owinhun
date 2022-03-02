@@ -1,21 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-###<h1 align="center">Hi 👋, I'm Seung_Hun_Oh</h1>
+<h1 align="center">Hi 👋, I'm Seung_Hun_Oh</h1>
 <h3 align="center">I'm interested in artificial intelligence deep learning.</h3>
 
-<!--
-**owinhun/owinhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=owinhun&label=Profile%20views&color=0e75b6&style=flat" alt="owinhun" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on **Hallym University**
 
--->
+- 🌱 I’m currently learning **Python, Java, C and so on**
+
+- 📫 How to reach me **gnsgus190@naver.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/o_whn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o_whn" height="30" width="40" /></a>
+</p>
+
 ## Platforms & Languages
 <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=white"/>
@@ -96,6 +96,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=vue)](https://github.com/owinhun/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owinhun&theme=vue)
 ---
-## Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnsgus190@naver.com)](mailto:gnsgus190@naver.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/o_whn/)](https://www.instagram.com/o_whn/) 
----
+
