@@ -74,9 +74,6 @@
 ## stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=radical)
 
-## Most Use Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owinhun&layout=compact)](https://github.com/owinhun/github-readme-stats)
-
 ## Git Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owinhun&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owinhun&theme=vue)
