@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-### Hi there 👋
+###<h1 align="center">Hi 👋, I'm Seung_Hun_Oh</h1>
+<h3 align="center">I'm interested in artificial intelligence deep learning.</h3>
 
 <!--
 **owinhun/owinhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
