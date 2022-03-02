@@ -23,7 +23,7 @@
 ---
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Most used Language</p>
+<h4 align="center"> 👨‍💻Most used Language👨‍💻</h4>
 
 <div align="center" style="text-align:center">
   
@@ -34,12 +34,12 @@
   
 </div>
 
-<h4 align="center"> ◈Interest◈</h4>
+<h4 align="center"> ⚡Interest⚡</h4>
 
 <div align="center" style="text-align:center">
   
- ![Bitcoin](https://img.shields.io/badge/Bitcoin-00979D?style=for-the-badge&logo=Bitcoin&logoColor=white)</a>&nbsp;
- ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)</a>&nbsp;
+ ![Bitcoin](https://img.shields.io/badge/Bitcoin-00979D?style=for-the-badge&logo=Bitcoin&logoColor=white)
+ ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
  ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
  
 </div>
