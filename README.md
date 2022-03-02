@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
 <h1 align="center">Hi 👋, I'm Seung_Hun_Oh</h1>
-<h3 align="center">I'm interested in artificial intelligence deep learning.</h3>
+<h3 align="center">I'm interested in artificial intelligence and deep learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owinhun&label=Profile%20views&color=0e75b6&style=flat" alt="owinhun" /> </p>
 
@@ -15,16 +13,6 @@
 <p align="left">
 <a href="https://instagram.com/o_whn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o_whn" height="30" width="40" /></a>
 </p>
-
-## Platforms & Languages
-<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=Python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-E34F26?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-E34F26?style=flat-square&logo=Git&logoColor=white"/>
 
 ## Backjoon Algorithm 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owinhun)](https://solved.ac/owinhun/)
