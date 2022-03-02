@@ -75,11 +75,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owinhun&layout=compact)](https://github.com/owinhun/github-readme-stats)
 
 ## Git Status
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owinhun&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owinhun&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owinhun&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=radical)](https://github.com/owinhun/github-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owinhun&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owinhun&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owinhun&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owinhun&theme=vue)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=vue)](https://github.com/owinhun/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owinhun&theme=vue)
 ---
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnsgus190@naver.com)](mailto:gnsgus190@naver.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/o_whn/)](https://www.instagram.com/o_whn/) 
