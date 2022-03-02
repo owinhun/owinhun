@@ -45,5 +45,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owinhun&theme=vue)
 ---
 ## Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnsgus190@gmail.com)](mailto:gnsgus190@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/o_whn/)](https://www.instagram.com/o_whn/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnsgus190@naver.com)](mailto:gnsgus190@naver.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/o_whn/)](https://www.instagram.com/o_whn/) 
 ---
