@@ -73,16 +73,15 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ## stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=radical)
+![owinhun's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owinhun&layout=compact"><br><br>
 
 ## Git Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owinhun&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owinhun&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owinhun&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owinhun&theme=vue)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=vue)](https://github.com/owinhun/github-readme-stats)
+[![owinhun's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=vue)](https://github.com/owinhun/github-readme-stats)
 
-## Code Status
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owinhun&layout=compact"><br><br>
 ---
 
