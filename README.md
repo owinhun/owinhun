@@ -81,5 +81,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owinhun&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owinhun&theme=vue)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=vue)](https://github.com/owinhun/github-readme-stats)
+
+## Code Status
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owinhun&layout=compact"><br><br>
 ---
 
