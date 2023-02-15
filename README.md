@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Hallym University**
 
-- 🌱 I’m currently learning **Python, Java, C and so on**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **gnsgus190@naver.com**
 
