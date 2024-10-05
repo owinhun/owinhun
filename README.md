@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Hallym University**
 
-- 🌱 I’m currently learning **Python, Java, C and so on**
+- 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **gnsgus190@naver.com**
+- 📫 How to reach me **gnsgus190@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,8 +29,6 @@
 <div align="center" style="text-align:center">
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
  <br>
   
 </div>
