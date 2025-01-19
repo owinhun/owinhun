@@ -51,7 +51,7 @@
 
 |Organization|Activity|Year|
 |:---:|:---:|:---:|
-|ETRI |[학부생 연구인턴]|2024.1 - <em>(present)</em>|
+|ETRI |[학부생 연구인턴]|2025.1 - <em>(present)</em>|
 |한림대학교 AIAC Lab |[학부생 연구인턴](https://sites.google.com/site/embeddedsochallymuniv/home)|2022.3 - <em>(present)</em>|
  
 <br>
