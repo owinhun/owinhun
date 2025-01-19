@@ -2,7 +2,7 @@
 
  <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
 <p align="center">
-  I am interested in <em> Multi-modal, Computer Vision, Time Series Data Analysis</em>. 
+  I am interested in <em> Multi-modal, Computer Vision and Time Series Data Analysis</em>. 
  <br/><br/>
   I am focusing on <em>Medical image analysis and Multi-modal </em> now.
 </p>
