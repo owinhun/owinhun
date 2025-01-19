@@ -14,6 +14,15 @@
 <a href="https://instagram.com/o_whn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o_whn" height="30" width="40" /></a>
 <!-- Tistory -->
 <a href="https://owinhun.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+
+<p>
+  <!-- gmail -->
+  <img src="https://img.shields.io/badge/gnsgus190@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <!-- Tistory -->
+  <a href="https://owinhun.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+  <!-- Instagram -->
+  <a href="https://instagram.com/o_whn"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+</p>
 </p>
 
 ## Backjoon Algorithm 
