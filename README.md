@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Seung_Hun_Oh</h1>
-<h3 align="center">I'm interested in Artificial Intelligence.</h3>
+<div align=center>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owinhun&label=Profile%20views&color=0e75b6&style=flat" alt="owinhun" /> </p>
-
-- 🔭 I’m currently working on **Hallym University**
-
-- 🌱 I’m currently learning **Python**, **Pytorch**, **AI**
+ <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
+<p align="center">
+  I am interested in <em> Multi-modal, Computer Vision, Time Series Data Analysis</em>. 
+ <br/><br/>
+  I am focusing on <em>Medical analysis (Computer Vision)</em> now.
+</p>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p>
