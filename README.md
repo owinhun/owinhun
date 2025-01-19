@@ -44,16 +44,15 @@
 <br>
 <br>
 
-## stats
-![owinhun's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=radical)
-!<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owinhun&show_icons=true&theme=radical"><br><br>
 
-## Git Status
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owinhun&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owinhun&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=owinhun&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=owinhun&theme=vue)
-[![owinhun's GitHub stats](https://github-readme-stats.vercel.app/api?username=owinhun&show_icons=true&theme=vue)](https://github.com/owinhun/github-readme-stats)
+<h3 align="center">[ Activity ]</h3>
 
----
+<em>Here is my [CV]().</em>
 
+|Organization|Activity|Year|
+|:---:|:---:|:---:|
+|ETRI |[학부생 연구인턴]|2024.1 - <em>(present)</em>|
+|한림대학교 AIAC Lab |학부생 연구인턴|(https://sites.google.com/site/embeddedsochallymuniv/home)|2022.3 - <em>(present)</em>|
+ 
+<br>
+</div>
