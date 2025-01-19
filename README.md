@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seung_Hun_Oh</h1>
-<h3 align="center">I'm interested in artificial intelligence and deep learning.</h3>
+<h3 align="center">I'm interested in Artificial Intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owinhun&label=Profile%20views&color=0e75b6&style=flat" alt="owinhun" /> </p>
 
@@ -7,14 +7,7 @@
 
 - 🌱 I’m currently learning **Python**, **Pytorch**, **AI**
 
-- 📫 How to reach me **gnsgus190@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/o_whn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o_whn" height="30" width="40" /></a>
-<!-- Tistory -->
-<a href="https://owinhun.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-
 <p>
   <!-- gmail -->
   <img src="https://img.shields.io/badge/gnsgus190@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
