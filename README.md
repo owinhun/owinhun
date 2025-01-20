@@ -8,7 +8,7 @@
 </p>
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:)</h3>
 <p>
   <!-- gmail -->
   <img src="https://img.shields.io/badge/gnsgus190@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
