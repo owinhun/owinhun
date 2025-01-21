@@ -4,7 +4,7 @@
 <p align="center">
   I am interested in <em> Multi-modal, Computer Vision and Time Series Data Analysis</em>. 
  <br/><br/>
-  I am focusing on <em>Medical image analysis and Multi-modal </em> now.
+  I am focusing on <em>Multi-modal and Computer Vision </em> now.
 </p>
 <br>
 
