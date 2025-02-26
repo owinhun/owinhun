@@ -2,7 +2,7 @@
 
  <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
 <p align="center">
-  I am interested in <em> Multi-modal, Computer Vision and Time Series Data Analysis</em>. 
+  I am interested in <em> Multi-modal, Computer Vision and Time Series Data Analysis </em>. 
  <br/><br/>
   I am focusing on <em>Multi-modal and Computer Vision </em> now.
 </p>
@@ -47,7 +47,7 @@
 
 <h3 align="center">[ Activity ]</h3>
 
-<em>Here is my [CV](https://github.com/owinhun/owinhun/blob/main/OSH_CV_2025_01_18.pdf).</em>
+<em>Here is my [CV](https://github.com/owinhun/owinhun/blob/main/OSH_CV_2025_02_27.pdf).</em>
 
 |Organization|Activity|Year|
 |:---:|:---:|:---:|
