@@ -40,7 +40,7 @@
 
 <h3 align="center">[ Activity ]</h3>
 
-<em>Here is my [CV](https://github.com/owinhun/owinhun/blob/main/OSH_CV_2025_02_27.pdf).</em>
+<em>Here is my [CV](https://github.com/owinhun/owinhun/blob/main/OSH_CV_2025_04_16.pdf).</em>
 
 |Organization|Activity|Year|
 |:---:|:---:|:---:|
