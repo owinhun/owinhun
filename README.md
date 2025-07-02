@@ -40,10 +40,10 @@
 
 <h3 align="center">[ Activity ]</h3>
 
+
 |Organization|Activity|Year|
 |:---:|:---:|:---:|
-|ETRI |[학부생 연구인턴]|2025.1.2 - 2025.2.28|
-|서강대학교 CVLab |2025.9 - <em>present<em>|
+|서강대학교 CV Lab |[학부생 연구인턴]|2025.9.1 - <em>present</em>|
  
 <br>
 </div>
