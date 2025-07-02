@@ -43,7 +43,7 @@
 
 |Organization|Activity|Year|
 |:---:|:---:|:---:|
-|서강대학교 CV Lab |[학부생 연구인턴]|2025.9.1 - <em>present</em>|
+|서강대학교 CV Lab |[석사]|2025.9.1 - <em>present</em>|
  
 <br>
 </div>
