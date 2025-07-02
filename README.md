@@ -40,12 +40,10 @@
 
 <h3 align="center">[ Activity ]</h3>
 
-<em>Here is my [CV](https://github.com/owinhun/owinhun/blob/main/OSH_CV_2025_04_16.pdf) and [Portfolio](https://github.com/owinhun/owinhun/blob/main/OSH_portfolio.pdf).</em>
-
 |Organization|Activity|Year|
 |:---:|:---:|:---:|
 |ETRI |[학부생 연구인턴]|2025.1.2 - 2025.2.28|
-|한림대학교 AIAC Lab |[학부생 연구인턴](https://sites.google.com/site/embeddedsochallymuniv/home)|2022.3 - <em>(present)</em>|
+|서강대학교 CVLab |2025.9 - <em>present<em>|
  
 <br>
 </div>
