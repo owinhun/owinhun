@@ -35,15 +35,4 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <br>
-<br>
-
-
-<h3 align="center">[ Activity ]</h3>
-
-
-|Organization|Activity|Year|
-|:---:|:---:|:---:|
-|서강대학교 CV Lab |[석사]|2025.9.1 - <em>present</em>|
- 
-<br>
 </div>
