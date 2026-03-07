@@ -2,7 +2,7 @@
 
  <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
 <p align="center">
-  I am interested in <em> Multi-modal, Computer Vision and Diffusion </em>. 
+  I am interested in <em> Computer Vision, Multi-modal and Diffusion </em>. 
  <br/><br/>
   I am focusing on <em>Multi-modal and Computer Vision </em> now.
 </p>
