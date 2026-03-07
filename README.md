@@ -4,7 +4,7 @@
 <p align="center">
   I am interested in <em> Computer Vision, Multi-modal and Diffusion </em>. 
  <br/><br/>
-  I am focusing on <em>Multi-modal and Computer Vision </em> now.
+  I am focusing on <em>Multi-modal and Diffusion </em> now.
 </p>
 <br>
 
